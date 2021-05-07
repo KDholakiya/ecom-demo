@@ -1,0 +1,23 @@
+.header .header-top div.left-content ul.logo-container li img {
+    max-width: 80px;
+    max-height: max-content !important;
+}
+.logo-text{
+    background-color: #fff;
+    margin: auto;
+}
+.product-image-group{
+    width: unset !important;
+}
+.product-hero-image{
+    width: initial !important;
+    height: unset !important;
+}
+
+.cat-button{
+    border-radius: 10px 100px !important;
+    margin-top: 10px !important;
+}
+.cat-button:hover{
+    border-radius: 0pc !important;
+}
